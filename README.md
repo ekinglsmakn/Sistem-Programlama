@@ -26,8 +26,4 @@ Bu uygulamanın anasayfası isteği yapan kullanıcının ip adresi gösteriyor
 
 Çalıştırıldıktan sonra bilgisayarınızda `localhost:5500` adresinden ulaşılabilir.
 
-**İsim:** isim
-
-**Numara:** numara
-
 **Domain:** [https://icodealot.xyz](https://icodealot.xyz)
